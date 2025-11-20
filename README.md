@@ -1,8 +1,11 @@
 # 👩🏻‍💻 Esther Pessanha
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora FullStack / FullStack Developer`**
 
-Me chamo Esther Pessanha, tenho 21 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no IFF, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ibmec-RJ, com formatura prevista para novembro de 2025. Procuro me desenvolver profissionalmente por meio de projetos práticos e do estudo contínuo de novas tecnologias e frameworks do mercado.
+[en] My name is Esther Pessanha, I’m 21 years old, and I’m from Rio de Janeiro. I completed high school at the Federal Institute, along with a technical program in Information Technology. I’m currently studying Systems Analysis and Development at Ibmec-RJ, with graduation expected in November 2025. I aim to grow professionally through hands-on projects and by continuously studying new technologies and frameworks in the industry.
+
+
+[pt] Me chamo Esther Pessanha, tenho 21 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no IFF, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Ibmec-RJ, com formatura prevista para novembro de 2025. Procuro me desenvolver profissionalmente por meio de projetos práticos e do estudo contínuo de novas tecnologias e frameworks do mercado.
 
 ---
 

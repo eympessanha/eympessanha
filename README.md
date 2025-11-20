@@ -9,7 +9,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming Languages and Technologies / Linguagens e Tecnologias
 
 <img
     align="left"
@@ -107,7 +107,7 @@
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics / Estatísticas
 
 <p>
   <img
